@@ -27,6 +27,10 @@ An enterprise-grade text processing system leveraging **ensemble learning** to c
 - **Context-Aware**: Suggestions adapt based on what you've written
 - **Full Control**: You guide the AI to create exactly what you want
 
+## Live Demo
+
+https://huggingface.co/spaces/eosoukaina/SMART-TEXT-ASSISTANT
+
 ## 🏗️ Architecture & Technical Implementation
 
 ### **Model Ensemble**
@@ -137,6 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note:** First run may take 2-3 minutes to load AI models. Subsequent runs are much faster!
+
 
 
 
