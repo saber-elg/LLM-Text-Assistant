@@ -1,16 +1,3 @@
----
-title: Smart Text Assistant
-emoji: 📝
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-sdk_version: "4.40.0"
-python_version: "3.11.9"
-app_file: app.py
-pinned: false
-license: mit
----
-
 # ✨ Smart Text Assistant
 
 > **Production-ready NLP application combining deep learning transformers (BERT, GPT-2) with statistical models for intelligent text processing and generation.**
@@ -150,5 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note:** First run may take 2-3 minutes to load AI models. Subsequent runs are much faster!
+
 
 
