@@ -4,7 +4,7 @@ emoji: 📝
 colorFrom: purple
 colorTo: blue
 sdk: gradio
-sdk_version: "4.19.2"
+sdk_version: "4.40.0"
 python_version: "3.11.9"
 app_file: app.py
 pinned: false
@@ -150,4 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note:** First run may take 2-3 minutes to load AI models. Subsequent runs are much faster!
+
 
